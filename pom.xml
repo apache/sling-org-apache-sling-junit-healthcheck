@@ -35,9 +35,9 @@
     <description>Sling Health Check services that run JUnit tests</description>
     
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/testing/junit/healthcheck</connection>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-junit-healthcheck.git</conncetion>
         <developerConnection> scm:svn:https://svn.apache.org/repos/asf/sling/trunk/testing/junit/healthcheck</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/testing/junit/healthcheck</url>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-junit-healthcheck.git.git</url>
     </scm>
 
     <build>
